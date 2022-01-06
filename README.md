@@ -176,6 +176,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+   <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
+   <img src="https://img.shields.io/github/license/lizhming/productive-box"/>
+   <img src="https://img.shields.io/github/stars/lizhming/productive-box"/>
+   <img src="https://img.shields.io/github/forks/lizhming/productive-box"/>
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lizhming&show_icons=true&theme=radical)
 ![footer](https://capsule-render.vercel.app/api?section=footer)
