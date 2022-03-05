@@ -42,7 +42,7 @@
             <td>PotatoPowerClue</td>
             <td>CryptoPigs</td>           
             <td>FunkiFoxes</td>
-            <td>CryptoSwords</td>
+            <td>GekoSave</td>
         </tr>
     </thead>
     <tr>
@@ -62,35 +62,11 @@
             </a>
         </td>
         <td>
-            <a href="https://crypto-swords.com/" target="_blank">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/CryptoSwords.png?raw=true" width="200">
-            </a>
-        </td>                
-    </tr>
-    <thead align="center">
-        <tr>
-            <td>ChubbyBunny</td>
-            <td>GekoSave</td>
-            <td>HellDemon</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="http://194.233.79.244:7005/" target="_blank">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/ChubbyBunny1.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
             <a href="https://gekosave.io/" target="_blank">
                 <img src="https://github.com/lizhming/lizhming/blob/main/projects/GekoSave0.png?raw=true" width="200">
             </a>
-        </td>
-        <td>
-            <a href="https://helldemons.io/" target="_blank">
-                <img src="https://github.com/lizhming/lizhming/blob/main/projects/HellDemon.png?raw=true" width="200">
-            </a>
-        </td>                       
-    </tr>   
+        </td>                
+    </tr>
 </table>
 
 - NFT Marketplaces
