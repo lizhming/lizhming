@@ -2,9 +2,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flizhming%2Fhit-counter)](https://github.com/lizhming)
 ### **_Contact Details_**
 <p align='center'>
-<a href="https://t.me/lizhming">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
 <a href="https://join.skype.com/uSaUJQtDGbCQ">
   <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -13,6 +10,9 @@
 </a>&nbsp;&nbsp;
 <a href="mailto:li.zhming@outlook.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://t.me/lizhming">
+  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
 
